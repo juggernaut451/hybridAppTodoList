@@ -2,7 +2,7 @@ import {Component} from '@angular/core';
 import {NavParams} from 'ionic-angular';
 
 @Component({
-  templateUrl: 'build/pages/item-detail/item-detail.html',
+  templateUrl: 'build/pages/ItemDetail/itemDetail.html',
 })
 export class ItemDetailPage {
 

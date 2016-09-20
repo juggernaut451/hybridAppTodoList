@@ -5,7 +5,7 @@ import {Component} from '@angular/core';
 import {ViewController, NavController} from 'ionic-angular';
 
 @Component({
-  templateUrl: 'build/pages/add-item/add-item.html',
+  templateUrl: 'build/pages/addItem/addItem.html',
 })
 
 export class AddItemPage {
